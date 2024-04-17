@@ -2,11 +2,11 @@ java2smali
 ===
 
 Source code:
-https://github.com/izgzhen/java2smali
+    https://github.com/izgzhen/java2smali
 
 Run:
-edit Example.java
-run convert.sh
+    edit Example.java
+    run convert.sh
 
 Compile:
 
